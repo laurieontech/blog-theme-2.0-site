@@ -15,8 +15,10 @@
   },
   "dependencies": {
     "gatsby": "^2.23.12",
+    "gatsby-theme-blog": "^2.0.0",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "theme-ui-sketchy-preset": "^0.1.3"
   },
   "devDependencies": {
     "prettier": "2.0.5"
