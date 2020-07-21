@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "gatsby-blog-theme-example",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "An example site using Blog Theme 2.0",
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {
